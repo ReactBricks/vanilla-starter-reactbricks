@@ -1,12 +1,19 @@
 {
   "name": "vanilla-starter-reactbricks",
   "version": "0.1.0",
+  "author": "Matteo Frana <f2@f2.net>",
   "private": true,
+  "keywords": [
+    "react-bricks starter vanilla react"
+  ],
+  "license": "MIT",
   "dependencies": {
+    "@reach/router": "^1.3.3",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.0",
+    "react-bricks": "^1.0.46",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
   },
