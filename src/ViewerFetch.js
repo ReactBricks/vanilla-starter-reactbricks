@@ -18,7 +18,7 @@ const ViewerFetch = () => {
       const myPage = cleanPage(data, pageTypeSchema, blockTypeSchema)
       setPage(myPage)
     })
-  }, [])
+  }, [apiKey, pageTypeSchema, blockTypeSchema])
 
   if (page) {
     return <PageViewer page={page} />
