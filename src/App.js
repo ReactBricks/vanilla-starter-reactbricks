@@ -9,6 +9,8 @@ import AppSettings from './admin/AppSettings'
 import Viewer from './Viewer'
 import ViewerFetch from './ViewerFetch'
 
+import './App.css'
+
 function App() {
   return (
     <div className="App">
