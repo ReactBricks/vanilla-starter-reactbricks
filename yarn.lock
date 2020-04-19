@@ -9011,10 +9011,10 @@ react-app-polyfill@^1.0.6:
     regenerator-runtime "^0.13.3"
     whatwg-fetch "^3.0.0"
 
-react-bricks@^1.0.53:
-  version "1.0.53"
-  resolved "https://registry.yarnpkg.com/react-bricks/-/react-bricks-1.0.53.tgz#1182c7ac306f3e4322c9bc031841197bbeb01c0b"
-  integrity sha512-px0rK6r7Am+gODP8vZA5gnMoZngrV5b0glTT92l371Nl0oTYAyfwLQ17RwP0kBYnPbybztvCPBu/IBMzAFgccg==
+react-bricks@^1.0.55:
+  version "1.0.55"
+  resolved "https://registry.yarnpkg.com/react-bricks/-/react-bricks-1.0.55.tgz#113a0f4670c9cc3127ee92bc75d93d686d2bf6a0"
+  integrity sha512-X1N0s3ppWonrFmkBoHwADb43wGJ7FZK0JIv9TNpOfEevi3ddMEX9c2WD/oBvkHBZ/z0xj/khxLshWtsOdpGyzw==
   dependencies:
     classnames "^2.2.6"
     cogo-toast "^4.2.3"
@@ -9030,7 +9030,7 @@ react-bricks@^1.0.53:
     react-loader-spinner "^3.1.14"
     react-progressive-graceful-image "^0.6.11"
     react-query "^1.2.1"
-    riec "^0.1.4"
+    riec "^0.1.5"
     slate "^0.47.9"
     slate-react "^0.22.10"
     uuid "^7.0.3"
@@ -9638,10 +9638,10 @@ rgba-regex@^1.0.0:
   resolved "https://registry.yarnpkg.com/rgba-regex/-/rgba-regex-1.0.0.tgz#43374e2e2ca0968b0ef1523460b7d730ff22eeb3"
   integrity sha1-QzdOLiyglosO8VI0YLfXMP8i7rM=
 
-riec@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/riec/-/riec-0.1.4.tgz#758dd652425469fa4e173a315bf41d4ab7d174ff"
-  integrity sha512-Vntey0rK39mOWw2/zulumjfkU7esUbT8BRLcmWgR+EAXI9xmryMy6tdfk31PUFcWjZb5JLiT91wCR2kIZW1HfQ==
+riec@^0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/riec/-/riec-0.1.5.tgz#6a5a494b7975685a5c2f706024c21d26928723c3"
+  integrity sha512-VAF2nD4yXaPUaosBdAk9fXtO9+vfuOhgNcHKV4BBax7+N7DYnmR0FmC5uK1sQVPwHWoHbTuXii0hErVxm4jNWg==
   dependencies:
     "@xstate/react" "^0.8.1"
     xstate "^4.8.0"
